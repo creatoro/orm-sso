@@ -1,4 +1,4 @@
-# SSO driver for Kohana ORM
+# SSO module driver for Kohana ORM
 
 This driver will enable support for Kohana ORM in the [SSO module](https://github.com/creatoro/kohana-sso).
 
