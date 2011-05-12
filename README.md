@@ -17,4 +17,4 @@ also merges the OAuth account with a standard account if they share the same e-m
 You can define your own sign up method:
 
  1. Copy `orm_driver_directory/classes/model/user.php` to `application_directory/classes/model/user.php`.
- 2. Customize the `sso_signup()` method` to your needs.
+ 2. Customize the `sso_signup()` method to your needs.
